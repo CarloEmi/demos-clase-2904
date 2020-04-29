@@ -1,6 +1,6 @@
 print('inicio')
-a = 10
-for i in range(5):
+a = 0
+for i in range(100):
     a += i
     print(a)
 print('final')
